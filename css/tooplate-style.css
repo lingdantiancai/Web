@@ -80,9 +80,15 @@ a {
 
 .tm-site-header-box {
   display: inline-block;
-  padding: 40px 80px 40px 40px;
-  margin: 40px 40px 100px;
+  padding: 40px 40px 40px 40px;
+  margin: 450px 200px 50px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
+
 
 .tm-site-title {
   font-size: 3.6rem;
